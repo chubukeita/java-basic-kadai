@@ -11,18 +11,15 @@ public class KatoExec_Chapter18 {
 		 // 太郎の紹介
         taro.setGivenName();
         taro.execIntroduce();
-        taro.eachIntroduce();
         System.out.println();
 
         // 一郎の紹介
         ichiro.setGivenName();
         ichiro.execIntroduce();
-        ichiro.eachIntroduce();
         System.out.println();
 
         // 花子の紹介
         hanako.setGivenName();
         hanako.execIntroduce();
-        hanako.eachIntroduce();
 	}
 }
