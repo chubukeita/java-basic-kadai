@@ -4,7 +4,6 @@ public class KatoHanako_Chapter18 extends Kato_Chapter18 {
 	
 	// 名を表すフィールドの値をセットする
 	public void setGivenName() {
-		super.familyName = "加藤";
 		super.givenName = "花子";
 		super.commonIntroduce();
 	}
